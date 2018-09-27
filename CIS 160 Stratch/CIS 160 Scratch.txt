@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Scratch</title>
+</head>
+<body>
+
+<h1>Scratch</h1>
+<p>This is a paragraph.</p>
+<a href="https://btetz40.github.io/">Home</a>
+</body>
+</html>

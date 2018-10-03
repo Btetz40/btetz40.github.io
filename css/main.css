@@ -2,7 +2,9 @@ body {
     margin: 50px auto;
      width: 70%
 }
-body {background-color: lightseagreen}
+body #grad {
+    background-image: linear-gradient(to bottom right, red, yellow);
+  } {background-color: lightseagreen}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;

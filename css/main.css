@@ -14,7 +14,7 @@ nav ul li, footer ul li
     margin-right: 20px;}
 a {
     text-decoration: none;
-    color: rgb(16, 71, 143);
+    color: rgb(161, 14, 190);
 }
 a:hover {
     text-decoration: underline;
@@ -22,6 +22,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-decoration-color: darkblue
 }
 p {
     font-size: 1.5em;

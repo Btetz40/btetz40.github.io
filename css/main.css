@@ -1,6 +1,6 @@
-body {background-color: lightskyblue
-    margin: 60px auto;
-    width: 70%;
+body { background-color: lightskyblue
+    margin; 50px auto;
+     <width> 70%
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -8,10 +8,9 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
+nav ul li, footer ul li
+{display: inline;
+    margin-right: 20px;}
 a {
     text-decoration: none;
     color: rgb(16, 71, 143);

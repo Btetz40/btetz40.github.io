@@ -3,7 +3,8 @@ body {
      width: 70%
 }
 #grad {
-    background-color: linear-gradient(red, yellow);
+    background-image: linear-gradient(red, yellow);
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

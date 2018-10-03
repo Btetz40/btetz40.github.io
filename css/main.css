@@ -63,7 +63,7 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color to #253 (white) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: rgb(253, 253, 253);
 }

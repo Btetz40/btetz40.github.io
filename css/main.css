@@ -2,7 +2,7 @@ body {
     margin: 50px auto;
      width: 70%
 }
-#grad {
+grad {
     background-image: linear-gradient(red, yellow);
     
 }

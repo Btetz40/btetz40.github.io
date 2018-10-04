@@ -3,9 +3,9 @@ body {
      width: 70%
 }
 #box1 {
-    width: 800px;
-    height:600px;
-    float: left;
+    width: 1800px;
+    height:1600px;
+    float: top left;
     background: linear-gradient(rgb(87, 1, 167), blue, rgb(10, 154, 202))
 }
 nav ul, footer ul {

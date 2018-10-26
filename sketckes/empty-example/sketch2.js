@@ -3,6 +3,7 @@ createCanvas(3000, 1000);
     noStroke();
 }
 function draw() {
+    fill(10)
 }
 if (mouseIsPressed) {
   fill(225, 0, 0);

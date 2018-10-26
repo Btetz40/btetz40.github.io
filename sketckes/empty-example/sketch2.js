@@ -1,6 +1,5 @@
 function setup() {
 createCanvas(3000, 1000);
-    noStroke();
 }
 function draw() {
     fill(10)

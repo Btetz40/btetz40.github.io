@@ -548,3 +548,4 @@ function drawBoard() {
     var keys = Object.keys(game);
     for (var i = 0; i < keys.length; i++) {
         drawObject(keys[i], game[keys[i]], false);
+    }
